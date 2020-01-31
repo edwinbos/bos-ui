@@ -1,1 +1,1 @@
-# mage-ui
+# Bos UI

@@ -1,0 +1,17 @@
+{
+  "name": "bos-ui",
+  "version": "1.0.0",
+  "description": "Bos UI",
+  "main": "index.js",
+  "repository": "git@github.com:edwinbos/bos-ui.git",
+  "author": "Edwin Bos <edwinbos1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@magento/babel-preset-peregrine": "~1.0.1",
+    "@magento/eslint-config": "~1.5.0",
+    "@magento/peregrine": "~5.0.0",
+    "@magento/pwa-buildpack": "~5.0.0",
+    "@magento/upward-js": "~4.0.0",
+    "@magento/venia-ui": "~2.0.0"
+  }
+}
