@@ -1,5 +1,5 @@
 {
-  "name": "bos-ui",
+  "name": "@edwinbos/bos-ui",
   "version": "1.0.0",
   "description": "Bos UI",
   "main": "index.js",
